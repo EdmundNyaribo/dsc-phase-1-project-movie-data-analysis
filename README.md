@@ -37,16 +37,16 @@ For our three hypothesis that we are trying to answer, in order to get accurate 
 ## Project Findings
 After our analysis of the data, we got this findings:
  1. There are some movie genres that Microsoft should consider to produce as they venture into film production since they have recieved higher ratings from the public. Comedy, Documentary, History is the highest rated genre.
- ![Genre vs Rating Relationship](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/tree/master/images/hypothesis1Finding.png)
+ ![Genre vs Rating Relationship](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/blob/master/images/hypothesis1Finding.png)
  
  2. There is a moderate to strong positive relationship about the cost of production and the gross returns the movie would generate. Hence a higher realistic budget will yield higher gross returns both in the domestic and worldwide market.
 * Production budget and Domestic gross have a correlation coefficient of 0.6857.
- ![production budget vs domestic gross](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/tree/master/images/hypothesis2.1Finding.png)
+ ![production budget vs domestic gross](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/blob/master/images/hypothesis2.1Finding.png)
 * Production budget and worldwide gross have a correlation coefficient of 0.7483.
- ![production budget vs worldwide gross](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/tree/master/images/hypothesis2.2Finding.png)
+ ![production budget vs worldwide gross](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/blob/master/images/hypothesis2.2Finding.png)
  
   3. From our analysis we can found that movies released in the months of December, July and August have a higher popularity. Movies released in January are not that popular.
- ![Release month popularityS](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/tree/master/images/hypothesis3Finding.png)
+ ![Release month popularityS](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/blob/master/images/hypothesis3Finding.png)
 
 
 ## Conclusion
