@@ -56,9 +56,7 @@ From the analysis we have done on the provided datasets, we can provide the foll
  1. Microsoft should release movies of the top genres which have the highest rating by the public. These genres have proved to be liked by the public than the other genres. I would recommend producing movie genres that have a rating of 6.9 and above.
 * Comedy, Documentary, Fantasy
 *  Documentary, Family, Musical
-*  History, Sport
-*  Game-Show 
-*  Music, Mystery etc. 
+*  History, Sport 
  
  2. In terms of the production budget, I would recommend Microsoft to invest a good amount of finances in the production of the movies. This is because there is a positive correlation between the production budget and the domestic gross as well as the worldwide gross.
  
