@@ -61,3 +61,8 @@ From the analysis we have done on the provided datasets, we can provide the foll
  2. In terms of the production budget, I would recommend Microsoft to invest a good amount of finances in the production of the movies. This is because there is a positive correlation between the production budget and the domestic gross as well as the worldwide gross.
  
  3.  Microsoft should consider releasing a movie in the months of December, July or August. These Months have shown to yield the highest popularity of a movie.
+ 
+  ## More information 
+Get my full analysis in my [Jupyter Notebook](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/blob/master/student.ipynb) or my [Presentation](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/blob/master/PresentationSlides.pdf)
+
+For any additional questions, please contact Edmund Nyaribo, nyariboedmund11@gmail.com
